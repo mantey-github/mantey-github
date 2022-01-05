@@ -1,14 +1,12 @@
 # Hi there, I'm Mantey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<!--
 **mantey-github/mantey-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 😍 I’m a Software Engineer who loves web-based technologies.
-- 🔭🌱 I’m currently learning ...
+- 🌱 I’m currently building something great at [River Health](https://helloriver.com)
 - 👯 I’m looking to collaborate on JS and PHP Frameworks. (Laravel, React, Vue, Remix, etc)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything on twitter [@DanMantey](https://twitter.com/DanMantey)
-- 📫 How to reach me: ...
-- 🤫 You know something? I think my dog talks to me.
+- 💬 Ask me about anything at [@DanMantey](https://twitter.com/DanMantey)
+- 🤫 You know something? I think my dog talks to me 🤗
 
 ## 💻 🔧 Stacks & Tools
 
@@ -27,5 +25,5 @@
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=62d8fa)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=62d8fa)
 ![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=62d8fa)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=62d8fa)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=62d8fa)
