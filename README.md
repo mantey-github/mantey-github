@@ -2,7 +2,7 @@
 <!--
 **mantey-github/mantey-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 😍 I’m a Software Engineer who loves web-based technologies. <img align="right" alt="Girls Who Code" src= "skye😍.jpg" height = 240 width = 370/>
+- 😍 I’m a Software Engineer who loves web-based technologies. <img align="right" alt="Girls Who Code" src= "skye😍.jpg" height = 240/>
 - 🌱 I’m currently building something great at [River Health](https://helloriver.com)
 - 👯 I’m looking to collaborate on JS and PHP Frameworks. (Laravel, React, Vue, Remix, etc)
 - 💬 Ask me about anything at [@DanMantey](https://twitter.com/DanMantey)
