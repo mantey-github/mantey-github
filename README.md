@@ -4,7 +4,8 @@
 <img align="right" alt="Girls Who Code" src= "skye😍.jpg" height = 370 width = 370 style="border-radius: 120px 20px 120px 20px;"/>
 -->
 - 😍 I’m a Software Engineer who loves web-based technologies.
-- 🌱 I’m currently building something great at [River Health](https://helloriver.com)
+- 🔥 Currently building [Swiftinflow](https://swiftinflow-stag.herokuapp.com). An all-in-one POS software used by stores to manage inventories.
+- 🌱 Also building something great at [River Health](https://helloriver.com)
 - 👯 I’m looking to collaborate on JS and PHP Frameworks. (Laravel, React, Vue, Remix, etc)
 - 💬 Ask me about anything at [@DanMantey](https://twitter.com/DanMantey)
 - 🤫 You know something? I think my dog talks to me 🤗
