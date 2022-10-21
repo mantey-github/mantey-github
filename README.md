@@ -3,6 +3,7 @@
 **mantey-github/mantey-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="Girls Who Code" src= "skye😍.jpg" height = 370 width = 370 style="border-radius: 120px 20px 120px 20px;"/>
 -->
+- 🧑🏾‍💻 Need a Quick Profile? Check out my [CV](https://drive.google.com/file/d/17PCu2tNx9nEaOd2qz5JsLChUGz8x9A-n/view?usp=sharing) or [LinkedIn](https://www.linkedin.com/in/danmantey).
 - 😍 I’m a Software Engineer who loves web-based technologies.
 - 🔥 Currently building [Swiftinflow](https://swiftinflow-stag.herokuapp.com). An all-in-one POS software used by stores to manage inventories.
 - 🌱 Also building something great at [River Health](https://helloriver.com)
