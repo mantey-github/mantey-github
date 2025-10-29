@@ -8,7 +8,7 @@
 - 🔥 Currently building [Swiftinflow](https://swiftinflow-stag.herokuapp.com). An all-in-one POS software used by stores to manage inventories.
 - 🌱 Built something great at [River Health](https://helloriver.com)
 - 👯 I’m looking to collaborate on JS and PHP Frameworks. (Laravel, React, Vue, Remix, etc)
-- 💬 Ask me about anything at [@DanMantey](https://twitter.com/DanMantey)
+- 💬 Ask me about anything at [@tweetsbymantey](https://x.com/tweetsbymantey)
 - 🤫 You know something? I think my dog talks to me 🤗
 
 ## 💻 🔧 Stacks & Tools
