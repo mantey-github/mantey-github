@@ -5,7 +5,7 @@
 -->
 - 🧑🏾‍💻 Need a Quick Profile? Check out my [LinkedIn](https://www.linkedin.com/in/danmantey).
 - 😍 I’m a Software Engineer who loves web-based technologies.
-- 🔥 Currently building [Swiftinflow](https://swiftinflow-stag.herokuapp.com). An all-in-one POS software used by stores to manage inventories.
+- 🔥 Currently building [Swiftinflow](https://swiftinflow.fly.dev). An all-in-one POS software used by stores to manage inventories.
 - 🌱 Built something great at [River Health](https://helloriver.com)
 - 👯 I’m looking to collaborate on JS and PHP Frameworks. (Laravel, React, Vue, Remix, etc)
 - 💬 Ask me about anything at [@tweetsbymantey](https://x.com/tweetsbymantey)
